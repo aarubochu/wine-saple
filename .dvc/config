@@ -1,0 +1,6 @@
+[core]
+    remote = wineremote1
+['remote "wineremote"']
+    url = s3://mlops-demo
+['remote "wineremote1"']
+    url = s3://mlsops-demo
